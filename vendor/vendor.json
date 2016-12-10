@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Y71DWZxVHxm5RKQDF2807roHrv4=",
+			"path": "github.com/akavel/rsrc/binutil",
+			"revision": "ba14da1f827188454a4591717fff29999010887f",
+			"revisionTime": "2015-11-03T20:43:39Z"
+		},
+		{
+			"checksumSHA1": "dY6sByHSXr76sRhg42HvGqYhU5I=",
+			"path": "github.com/akavel/rsrc/coff",
+			"revision": "ba14da1f827188454a4591717fff29999010887f",
+			"revisionTime": "2015-11-03T20:43:39Z"
+		},
+		{
+			"checksumSHA1": "8FHKm/Sc+zlYExn/UkdoG0Mk2cw=",
+			"path": "github.com/akavel/rsrc/ico",
+			"revision": "ba14da1f827188454a4591717fff29999010887f",
+			"revisionTime": "2015-11-03T20:43:39Z"
+		}
+	],
+	"rootPath": "github.com/caiguanhao/goversioninfo"
+}
